@@ -17,3 +17,5 @@ Pull the image and run a container from this image as follow
 - `docker run -it --rm -p 5000:5000 rajmor/k8s-utils`  
 
 The application can be accessed at `http:localhost:5000`
+
+Sample K8s manfiest file (Deployment and NodePort service) can be found [here]().
