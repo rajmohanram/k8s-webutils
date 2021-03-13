@@ -18,4 +18,4 @@ Pull the image and run a container from this image as follow
 
 The application can be accessed at `http:localhost:5000`
 
-Sample K8s manfiest file (Deployment and NodePort service) can be found [here]().
+Sample K8s manfiest file (Deployment and NodePort service) can be found [here](https://github.com/rajmohanram/k8s-webutils/blob/main/manifest.yaml).
