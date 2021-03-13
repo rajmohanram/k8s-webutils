@@ -15,4 +15,5 @@ Following client information will also be displayed.
 Pull the image and run a container from this image as follow
 - `docker pull rajmor/k8s-utils:latest`
 - `docker run -it --rm -p 5000:5000 rajmor/k8s-utils`  
+
 The application can be accessed at `http:localhost:5000`
